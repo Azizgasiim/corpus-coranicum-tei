@@ -1,0 +1,37 @@
+[
+  {
+    "name": "surah",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "ayah",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "word_index",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "token_ar",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "root",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "lemma",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "pos",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  }
+]

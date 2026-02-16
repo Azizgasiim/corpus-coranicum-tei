@@ -1,0 +1,122 @@
+[
+  {
+    "name": "surah",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "ayah",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "word_index",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "morpheme_index",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "form_ar",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "pos_broad",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "pos_fine",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "root",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "lemma",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "verb_form",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "aspect",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "person",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "gender",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "number",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "case_mood",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "noun_derivation",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "is_prefix",
+    "type": "BOOLEAN",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "is_suffix",
+    "type": "BOOLEAN",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "is_definite",
+    "type": "BOOLEAN",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "is_indefinite",
+    "type": "BOOLEAN",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "is_passive",
+    "type": "BOOLEAN",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "is_adj",
+    "type": "BOOLEAN",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "family",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "extra_tags",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  }
+]
